@@ -2,7 +2,7 @@
 <ul>
 <li>
 <img align="left" src="https://raw.githubusercontent.com/goputtanz/goputtanz/main/images/android.svg" alt="icon" width="30px"/>
-<H5>I’m an Android Developer currently focussed on</H5>
+<H3>I’m an Android Developer currently focussed on</H3>
 </li>
 </ul>
 👨‍💻 My personal project
