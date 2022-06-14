@@ -3,7 +3,7 @@
 <head>
  <H1>Hi, I'm Gopikrishan</H1>
 </head>
- <table class="tab">
+ <table border-style="none">
  <tr><td>
   <img align="left" src="https://raw.githubusercontent.com/goputtanz/goputtanz/main/images/android.svg" alt="icon" width="50px"/>
   </td>
@@ -17,11 +17,6 @@
 <img align="center" src="https://raw.githubusercontent.com/goputtanz/goputtanz/main/images/twitter.svg" alt="icon | Twitter" width="50px"/></a><a href="https://www.linkedin.com/in/gopi-krishnan-b46314210">
 <img align="center" src="https://raw.githubusercontent.com/goputtanz/goputtanz/main/images/linkedin.svg" alt="icon | LinkedIn" width="50px"/>
 </a>
-  <style>
-table,tr,td{
-    border-style: dotted;
-}
- </style>
  </body>
 
  </html>
