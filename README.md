@@ -7,7 +7,7 @@
 <H5>I’m an Android Developer currently focussed on my personal project</H5>
 </li>
  <li>
-  <H5>How to reach me: iamgopikrishnanpv@gmail.com</H5>
+  <H5>How to reach me:<a> iamgopikrishnanpv@gmail.com</a></H5>
  </li>
 </ul><br>
 <h5>Connect with me</h5><br>
