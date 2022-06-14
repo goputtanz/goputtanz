@@ -1,8 +1,6 @@
 <html>
 <body>
-<head>
- <H1>Hi, I'm Gopikrishnan</H1>
-</head>
+ <H1 align="center">Hi, I'm Gopikrishnan</H1>
 <ul>
 <li>
   <img align="left" src="https://raw.githubusercontent.com/goputtanz/goputtanz/main/images/android.svg" alt="icon" width="50px"/>
