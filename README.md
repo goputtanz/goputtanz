@@ -1,7 +1,7 @@
 <html>
 <body>
 <head>
- <title>Hi, I'm Gopikrishan</title>
+ <H1>Hi, I'm Gopikrishan</H1>
 </head>
 <H4>I’m an Android Developer currently focussed on my personal project</H4><br>
 <img align="left" src="https://raw.githubusercontent.com/goputtanz/goputtanz/main/images/android.svg" alt="icon | Android" width="50px"/>
