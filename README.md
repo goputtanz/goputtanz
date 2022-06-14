@@ -19,7 +19,7 @@
 </a>
   <style>
 .tab{
-    border-style: hidden;
+    border-style: none;
 }
  </style>
  </body>
