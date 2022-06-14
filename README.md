@@ -19,7 +19,7 @@
 </a>
   <style>
 table, tr, td {
-    border-style: none;
+    border-style: hidden;
 }
  </style>
  </body>
