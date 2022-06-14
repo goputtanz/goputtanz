@@ -3,7 +3,7 @@
 <head>
  <H1>Hi, I'm Gopikrishan</H1>
 </head>
- <table border-style="none">
+ <table border-style="dotted">
  <tr><td>
   <img align="left" src="https://raw.githubusercontent.com/goputtanz/goputtanz/main/images/android.svg" alt="icon" width="50px"/>
   </td>
