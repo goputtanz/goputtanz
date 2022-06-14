@@ -5,9 +5,9 @@
 <H3>I’m an Android Developer currently focussed on</H3>
 </li>
 </ul>
--👨‍💻 Focussed on My personal projects
+-👨‍💻 On My personal projects
 
--🌱 I’m currently learning Jetpack Compose & Ktor
+-🌱 Learning Jetpack Compose & Ktor
 
 -🤙 Contact me in : iamgopikrishnanpv@gmail.com
 <h3 align="left">Connect with me:</h3>
