@@ -1,5 +1,5 @@
 <H1>Hi, I'm Gopikrishan</H1>
-- <p><img src="https://raw.githubusercontent.com/goputtanz/goputtanz/main/images/android.svg"> I’m an Android Developer currently focussed on my personal project</p>
+- <p><img src="https://raw.githubusercontent.com/goputtanz/goputtanz/main/images/android.svg" alt="icon" width="50px"/> I’m an Android Developer currently focussed on my personal project</p>
 - 💞️ I would love to do freelancing
 - 📫 How to reach me iamgopikrishnanpv@gmail.com
 - Connect with me
