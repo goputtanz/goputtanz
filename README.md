@@ -5,7 +5,8 @@
 </head>
  <table>
  <tr><td>
-<H4>I’m an Android Developer currently focussed on my personal project</H4><img align="left" src="https://raw.githubusercontent.com/goputtanz/goputtanz/main/images/android.svg" alt="icon" width="50px"/>
+  <img align="left" src="https://raw.githubusercontent.com/goputtanz/goputtanz/main/images/android.svg" alt="icon" width="50px"/>
+<H4>I’m an Android Developer currently focussed on my personal project</H4>
 </td>
 </tr>
 </table>
