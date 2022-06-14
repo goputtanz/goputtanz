@@ -18,7 +18,7 @@
 <img align="center" src="https://raw.githubusercontent.com/goputtanz/goputtanz/main/images/linkedin.svg" alt="icon | LinkedIn" width="50px"/>
 </a>
   <style>
-.tab{
+table,tr,td{
     border-style: none;
 }
  </style>
