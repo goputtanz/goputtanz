@@ -5,7 +5,7 @@
 <H3>I’m an Android Developer currently focussed on</H3>
 </li>
 </ul>
--🌱 Focussed on My personal projects
+-👨‍💻 Focussed on My personal projects
 
 -🌱 I’m currently learning Jetpack Compose & Ktor
 
