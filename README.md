@@ -3,7 +3,7 @@
 <head>
  <H1>Hi, I'm Gopikrishan</H1>
 </head>
- <table>
+ <table class="tab">
  <tr><td>
   <img align="left" src="https://raw.githubusercontent.com/goputtanz/goputtanz/main/images/android.svg" alt="icon" width="50px"/>
   </td>
@@ -18,7 +18,7 @@
 <img align="center" src="https://raw.githubusercontent.com/goputtanz/goputtanz/main/images/linkedin.svg" alt="icon | LinkedIn" width="50px"/>
 </a>
   <style>
-table, tr, td {
+.tab{
     border-style: hidden;
 }
  </style>
