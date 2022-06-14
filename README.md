@@ -8,7 +8,6 @@
 -👨‍💻 Focussed on My personal projects
 -🌱 I’m currently learning Jetpack Compose & Ktor
 -🤙 Contact me in : iamgopikrishnanpv@gmail.com
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/Gopikrishnnpv" target="blank"><img align="center" src="https://raw.githubusercontent.com/goputtanz/goputtanz/main/images/twitter.svg" alt="gopi" height="30" width="40" /></a>
