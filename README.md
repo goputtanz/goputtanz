@@ -3,7 +3,7 @@
 <head>
  <H1>Hi, I'm Gopikrishan</H1>
 </head>
-<H4>I’m an Android Developer currently focussed on my personal project</H4><br>
+<H4>I’m an Android Developer currently focussed on my personal project</H4>
 <img align="left" src="https://raw.githubusercontent.com/goputtanz/goputtanz/main/images/android.svg" alt="icon" width="50px"/>
 <h3>Connect with me</h3><br>
 <a href="https://twitter.com/Gopikrishnnpv?t=T-jis_LphGBc6pdRUpns_Q&s=09">
