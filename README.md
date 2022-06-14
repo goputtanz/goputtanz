@@ -3,7 +3,7 @@
 <head>
  <H1>Hi, I'm Gopikrishan</H1>
 </head>
- <table cellspacing="0" cellpadding="0">
+ <table>
  <tr><td>
   <img align="left" src="https://raw.githubusercontent.com/goputtanz/goputtanz/main/images/android.svg" alt="icon" width="50px"/>
   </td>
@@ -19,7 +19,7 @@
 </a>
   <style>
 table, tr, td {
-    border: none;
+    border-style: none;
 }
  </body>
 
