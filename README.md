@@ -6,8 +6,8 @@
 <img align="left" src="https://raw.githubusercontent.com/goputtanz/goputtanz/main/images/android.svg" alt="icon" width="30px"/>
 <H5>I’m an Android Developer currently focussed on my personal project</H5>
 </li>
- How to reach me: iamgopikrishnanpv@gmail.com
  <li>
+   How to reach me: iamgopikrishnanpv@gmail.com
  </li>
  </ul><br>
  
