@@ -2,7 +2,7 @@
 - 👨‍💻 I’m an Android Developer currently focussed on my personal project
 - 💞️ I would love to do freelancing
 - 📫 How to reach me iamgopikrishnanpv@gmail.com
-- <ul>
+<ul>
   <li>
   Connect with me
 <a href="https://twitter.com/Gopikrishnnpv?t=T-jis_LphGBc6pdRUpns_Q&s=09">
