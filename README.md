@@ -21,6 +21,7 @@
 table, tr, td {
     border-style: none;
 }
+ </style>
  </body>
 
  </html>
