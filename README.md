@@ -17,10 +17,11 @@
 <img align="center" src="https://raw.githubusercontent.com/goputtanz/goputtanz/main/images/twitter.svg" alt="icon | Twitter" width="50px"/></a><a href="https://www.linkedin.com/in/gopi-krishnan-b46314210">
 <img align="center" src="https://raw.githubusercontent.com/goputtanz/goputtanz/main/images/linkedin.svg" alt="icon | LinkedIn" width="50px"/>
 </a>
- <style>
+
+ </body>
+  <style>
   .tab {border: none;}
   </style
- </body>
  </html>
  
 
