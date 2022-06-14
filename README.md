@@ -12,7 +12,7 @@
 </td>
 </tr>
 </table>
-<h3>Connect with me</h3><br>
+<h5>Connect with me</h5><br>
 <a href="https://twitter.com/Gopikrishnnpv?t=T-jis_LphGBc6pdRUpns_Q&s=09">
 <img align="center" src="https://raw.githubusercontent.com/goputtanz/goputtanz/main/images/twitter.svg" alt="icon | Twitter" width="50px"/></a><a href="https://www.linkedin.com/in/gopi-krishnan-b46314210">
 <img align="center" src="https://raw.githubusercontent.com/goputtanz/goputtanz/main/images/linkedin.svg" alt="icon | LinkedIn" width="50px"/>
