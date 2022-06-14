@@ -6,10 +6,10 @@
 <img align="left" src="https://raw.githubusercontent.com/goputtanz/goputtanz/main/images/android.svg" alt="icon" width="30px"/>
 <H5>I’m an Android Developer currently focussed on my personal project</H5>
 </li>
- <li>
-  <H5>How to reach me:<a href="iamgopikrishnanpv@gmail.com"> iamgopikrishnanpv@gmail.com</a></H5>
- </li>
-</ul><br>
+ </ul><br>
+ How to reach me: iamgopikrishnanpv@gmail.com
+ 
+
 <h5>Connect with me</h5><br>
 <a href="https://twitter.com/Gopikrishnnpv?t=T-jis_LphGBc6pdRUpns_Q&s=09">
 <img align="center" src="https://raw.githubusercontent.com/goputtanz/goputtanz/main/images/twitter.svg" alt="icon | Twitter" width="50px"/></a>&nbsp&nbsp<a href="https://www.linkedin.com/in/gopi-krishnan-b46314210">
