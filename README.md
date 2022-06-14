@@ -6,8 +6,8 @@
  <table>
  <tr><td>
 <H4>I’m an Android Developer currently focussed on my personal project</H4>
-</td>
 <img align="left" src="https://raw.githubusercontent.com/goputtanz/goputtanz/main/images/android.svg" alt="icon" width="50px"/>
+</td>
 </tr>
 </table>
 <h3>Connect with me</h3><br>
