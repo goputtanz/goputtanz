@@ -4,7 +4,7 @@
 <ul>
 <li>
 <img align="left" src="https://raw.githubusercontent.com/goputtanz/goputtanz/main/images/android.svg" alt="icon" width="30px"/>
-<H6 color="#FFFFF">I’m an Android Developer currently focussed on my personal project</H6>
+<H5>I’m an Android Developer currently focussed on my personal project</H5>
 </li>
 </ul><br>
 <h5>Connect with me</h5><br>
