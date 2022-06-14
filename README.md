@@ -2,12 +2,10 @@
 <ul>
 <li>
 <img align="left" src="https://raw.githubusercontent.com/goputtanz/goputtanz/main/images/android.svg" alt="icon" width="30px"/>
-<H5>I’m an Android Developer currently focussed on my personal project</H5>
+<H5>I’m an Android Developer currently focussed on</H5>
 </li>
-<li>
-How to reach me: iamgopikrishnanpv@gmail.com
-</li>
- </ul><br>
+</ul>
+👨‍💻 My personal project
  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
