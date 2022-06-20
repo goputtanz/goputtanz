@@ -6,7 +6,9 @@
 </li>
 </ul>
 -👨‍💻 On My personal projects
+
 -🌱 Learning Jetpack Compose & Ktor
+
 -🤙 Contact me in : iamgopikrishnanpv@gmail.com
 <h3 align="left">Connect with me:</h3>
 <p align="left">
