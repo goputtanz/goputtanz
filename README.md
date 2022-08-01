@@ -1,9 +1,8 @@
 <H1 align="center">Hi 🖐️, I'm Gopikrishnan</H1>
 <H3>I’m an Android Developer currently focussed on</H3>
--👨‍💻 On My personal projects
+-👨‍💻 My personal projects
 
 -🌱 Learning Jetpack Compose & Ktor
-
 -🤙 Contact me in : iamgopikrishnanpv@gmail.com
 <h3 align="left">Connect with me:</h3>
 <p align="left">
